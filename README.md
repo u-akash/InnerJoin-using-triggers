@@ -1,0 +1,1 @@
+# InnerJoin-using-triggers
